@@ -1,0 +1,3 @@
+00800020 T umain
+00800056 T __x86.get_pc_thunk.si
+00801000 d _GLOBAL_OFFSET_TABLE_
